@@ -65,7 +65,17 @@ Focused on Crypto and Stego for now...
 | ---- Sequences --- ||
 | [Encyclopedia of Integer Sequences](https://oeis.org/) | OEIS: The On-Line Encyclopedia of Integer Sequences|:star:|
 
-
+| Python Libraries |
+| ------------- | 
+| PyCryptodome |
+| Sage |
+| gmpy2 |
+| pwntools |
+| sympy |
+| math|
+| owiener|
+| Requests |
+| mtp | https://github.com/CameronLonsdale/MTP
 
 
 

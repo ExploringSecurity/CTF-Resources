@@ -56,12 +56,7 @@ Focused on Crypto and Stego for now...
 | [XOR Cracker](https://wiremask.eu/tools/xor-cracker/) | Online XOR decryption tool able to guess the key length and the cipher key to decrypt any file.|
 | [Vigenere Solver](https://www.guballa.de/vigenere-solver) | Online tool that breaks Vigenère ciphers without knowing the key.|
 | [QuipQuip](https://quipqiup.com)  | Automated cryptogram solver.|
-| ---- Smaller Tools --- ||
-| [Rumkin Cipher Tools](http://rumkin.com/tools/cipher/) | Collection of ciphhers/encoders tools.|:star:|
-| [Base65536](https://github.com/qntm/base65536) | Unicode's answer to Base64.|:star:|
-| [Enigma Machine](https://summersidemakerspace.ca/projects/enigma-machine/) | Universal Enigma Machine Simulator.|:star:|
-| [Braille Translator](https://www.branah.com/braille-translator) | Translate from braille to text.|:star:|
-| [Polybius Square Cipher](https://www.braingle.com/brainteasers/codes/polybius.php) | Table that allows someone to translate letters into numbers.|:star:|
+
 | ---- Factoring / Discrete Logs --- ||
 | [Alpertron](https://www.alpertron.com.ar/JAVAPROG.HTM)| Online Descrete log, number factorisation and a few other tools|:star::star:|
 | [FactorDB](https://factordb.com/)|Online Automated integer factorization. |:star::star::star:|

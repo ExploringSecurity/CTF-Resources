@@ -61,8 +61,12 @@ Focused on Crypto and Stego for now...
 | [Vigenere Solver](https://www.guballa.de/vigenere-solver) | Online tool that breaks Vigenère ciphers without knowing the key.|
 | [XOR Cracker](https://wiremask.eu/tools/xor-cracker/) | Online XOR decryption tool able to guess the key length and the cipher key to decrypt any file.|
 | [XORTool](https://github.com/hellman/xortool) | A tool to analyze multi-byte xor cipher.|
-| [yagu](https://sourceforge.net/projects/yafu/) | Automated integer factorization.|
 | [Arfes](https://github.com/bee-san/Ares)| Discord based auto crypto solver|
+| ---- Factoring and Sequences --- |
+| [FactorDB](https://factordb.com/)|Online Automated integer factorization. |
+| [yagu](https://sourceforge.net/projects/yafu/) | Automated integer factorization. FactorDB is probably better option|
+| [Online Encyclopedia of Integer Sequences](https://oeis.org/) | OEIS: The On-Line Encyclopedia of Integer Sequences|
+
 
 
 
@@ -75,7 +79,7 @@ Focused on Crypto and Stego for now...
 | Resource  | Comment |
 | ------------- | ------------- |
 | [Crackstation](https://crackstation.net/) | Hash cracker (database).|
-| [Online Encyclopedia of Integer Sequences](https://oeis.org/) | OEIS: The On-Line Encyclopedia of Integer Sequences|
+
 
 
 [https://github.com/uppusaikiran/awesome-ctf-cheatsheet\](https://github.com/uppusaikiran/awesome-ctf-cheatsheet)

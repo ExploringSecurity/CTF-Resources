@@ -2,36 +2,6 @@
 A list of Capture The Flag(CTF) frameworks, libraries, resources, softwares and tutorials. This list aims to help starters as well as seasoned CTF players to find everything related to CTFs at one place.
 Focused on Crypto and Stego for now...
 
-### Contents
-
-- [Awesome CTF](#awesome-ctf)
-  - [Create](#create)
-    - [Forensics](#forensics)
-    - [Platforms](#platforms)
-    - [Steganography](#steganography)
-    - [Web](#web)
-  - [Solve](#solve)
-    - [Attacks](#attacks)
-    - [Bruteforcers](#bruteforcers)
-    - [Cryptography](#crypto)
-    - [Exploits](#exploits)
-    - [Forensics](#forensics-1)
-    - [Networking](#networking)
-    - [Reversing](#reversing)
-    - [Services](#services)
-    - [Steganography](#steganography-1)
-    - [Web](#web-1)
-
-- [Resources](#resources)
-  - [Operating Systems](#operating-systems)
-  - [Starter Packs](#starter-packs)
-  - [Tutorials](#tutorials)
-  - [Wargames](#wargames)
-  - [Websites](#websites)
-  - [Wikis](#wikis)
-  - [Writeups Collections](#writeups-collections)
-
-
 
 ## Crypto
 | Resource  | Comment | Rating |
@@ -77,8 +47,40 @@ Focused on Crypto and Stego for now...
 | Requests |
 | mtp | https://github.com/CameronLonsdale/MTP
 
+- [CryptoHack](https://cryptohack.org/) - Fun cryptography challenges.
+- [Cryptopals](https://cryptopals.com/) - Cryptography Challenges.
+- [MysteryTwister C3 ](https://www.mysterytwisterc3.org/) - Cryptography Challenges.
 
 
+
+### Contents
+
+- [Awesome CTF](#awesome-ctf)
+  - [Create](#create)
+    - [Forensics](#forensics)
+    - [Platforms](#platforms)
+    - [Steganography](#steganography)
+    - [Web](#web)
+  - [Solve](#solve)
+    - [Attacks](#attacks)
+    - [Bruteforcers](#bruteforcers)
+    - [Cryptography](#crypto)
+    - [Exploits](#exploits)
+    - [Forensics](#forensics-1)
+    - [Networking](#networking)
+    - [Reversing](#reversing)
+    - [Services](#services)
+    - [Steganography](#steganography-1)
+    - [Web](#web-1)
+
+- [Resources](#resources)
+  - [Operating Systems](#operating-systems)
+  - [Starter Packs](#starter-packs)
+  - [Tutorials](#tutorials)
+  - [Wargames](#wargames)
+  - [Websites](#websites)
+  - [Wikis](#wikis)
+  - [Writeups Collections](#writeups-collections)
 
 
 
@@ -590,13 +592,14 @@ Check solve section for steganography.
 - [MIPT CTF](https://github.com/xairy/mipt-ctf) - A small course for beginners in CTFs (in Russian).
 
 
+   
+- 
 ## Wargames
 
 *Always online CTFs*
 
 - [Backdoor](https://backdoor.sdslabs.co/) - Security Platform by SDSLabs.
 - [Crackmes](https://crackmes.one/) - Reverse Engineering Challenges.
-- [CryptoHack](https://cryptohack.org/) - Fun cryptography challenges.
 - [echoCTF.RED](https://echoctf.red/) - Online CTF with a variety of targets to attack.
 - [Exploit Exercises](https://exploit-exercises.lains.space/) - Variety of VMs to learn variety of computer security issues.
 - [Exploit.Education](http://exploit.education) - Variety of VMs to learn variety of computer security issues.
@@ -635,7 +638,7 @@ Check solve section for steganography.
  - [CTF365](https://ctf365.com/) - Security Training Platform.
  - [Crackmes.One](https://crackmes.one/) - Reverse Engineering Challenges.
  - [CryptoHack](https://cryptohack.org/) - Cryptography Challenges.
- - [Cryptopals](https://cryptopals.com/) - Cryptography Challenges.
+
  - [Defend the Web](https://defendtheweb.net/?hackthis) - An Interactive Cyber Security Platform.
  - [Dreamhack.io](https://dreamhack.io/wargame) - Online wargame.
  - [echoCTF.RED](https://echoctf.red/) - Online Hacking Laboratories.

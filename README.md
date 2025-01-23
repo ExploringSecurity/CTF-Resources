@@ -42,13 +42,13 @@ Focused on Crypto and Stego for now...
 | ---- Swiss Army Knife --- ||
 | [Ciphey](https://github.com/Ciphey/Ciphey) | Tool to automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes.|:star::star:|
 | [Cryptii](https://cryptii.com/) | Modular conversion, encoding and encryption online.|:star:|
-| [Arfes](https://github.com/bee-san/Ares)| Discord based auto crypto solver|:star:|
+| [Ares](https://github.com/bee-san/Ares)| Discord based auto crypto solver|:star:|
 | [CyberChef](https://gchq.github.io/CyberChef)  | Web app for analysing and decoding data.  |:star::star::star:|
 | [dcode](https://dcode.fr/en) | Solvers for Crypto, Maths and Encodings online.|:star::star::star:|
 | ---- Oracle attacks --- ||
 | [PadBuster](https://github.com/AonCyberLabs/PadBuster) | Automated script for performing Padding Oracle attacks.|:star:|
 | [padding-oracle-attacker](https://github.com/KishanBagaria/padding-oracle-attacker)| A CLI tool to execute padding oracle attacks. |:star:|
-| ---- XOR / Videnere Solvers --- ||
+| ---- XOR --- ||
 | [XORTool](https://github.com/hellman/xortool) | A tool to analyze multi-byte xor cipher.|:star::star:|
 | [XOR Cracker](https://wiremask.eu/tools/xor-cracker/) | Online XOR decryption tool able to guess the key length and the cipher key to decrypt any file.| :star:|
 | ---- Vigenère Solvers --- ||

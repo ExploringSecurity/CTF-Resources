@@ -36,27 +36,28 @@ Focused on Crypto and Stego for now...
 ## Crypto
 | Resource  | Comment | Rating |
 | ------------- | ------------- | ------------- |
-| [FeatherDuster](https://github.com/nccgroup/featherduster) | An automated, modular cryptanalysis tool.  |
-| [Hash Extender](https://github.com/iagox86/hash_extender) | A utility tool for performing hash length extension attacks. |
-| [PkCrack](https://www.unix-ag.uni-kl.de/~conrad/krypto/pkcrack.html) | A tool for Breaking PkZip-encryption. |
 | ---- RSA --- ||
-| [RSACTFTool](https://github.com/Ganapati/RsaCtfTool)| A tool for recovering RSA private key with various attack. |
-| [RSATool](https://github.com/ius/rsatool)  |  Generate private key with knowledge of p and q.|
+| [RSACTFTool](https://github.com/Ganapati/RsaCtfTool)| A tool for recovering RSA private key with various attack. |:star::star:|
+| [RSATool](https://github.com/ius/rsatool)  |  Generate private key with knowledge of p and q.|:star:|
 | ---- Swiss Army Knife --- ||
-| [Ciphey](https://github.com/Ciphey/Ciphey) | Tool to automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes.|
-| [Cryptii](https://cryptii.com/) | Modular conversion, encoding and encryption online.|
-| [Arfes](https://github.com/bee-san/Ares)| Discord based auto crypto solver|
-| [CyberChef](https://gchq.github.io/CyberChef)  | Web app for analysing and decoding data.  |
-| [dcode](https://dcode.fr/en) | Solvers for Crypto, Maths and Encodings online.|
+| [Ciphey](https://github.com/Ciphey/Ciphey) | Tool to automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes.|:star::star:|
+| [Cryptii](https://cryptii.com/) | Modular conversion, encoding and encryption online.|:star:|
+| [Arfes](https://github.com/bee-san/Ares)| Discord based auto crypto solver|:star:|
+| [CyberChef](https://gchq.github.io/CyberChef)  | Web app for analysing and decoding data.  |:star::star::star:|
+| [dcode](https://dcode.fr/en) | Solvers for Crypto, Maths and Encodings online.|:star::star::star:|
 | ---- Oracle attacks --- ||
-| [PadBuster](https://github.com/AonCyberLabs/PadBuster) | Automated script for performing Padding Oracle attacks.|
-| [padding-oracle-attacker](https://github.com/KishanBagaria/padding-oracle-attacker)| A CLI tool to execute padding oracle attacks. |
+| [PadBuster](https://github.com/AonCyberLabs/PadBuster) | Automated script for performing Padding Oracle attacks.|:star:|
+| [padding-oracle-attacker](https://github.com/KishanBagaria/padding-oracle-attacker)| A CLI tool to execute padding oracle attacks. |:star:|
 | ---- XOR / Videnere Solvers --- ||
 | [XORTool](https://github.com/hellman/xortool) | A tool to analyze multi-byte xor cipher.|:star::star:|
 | [XOR Cracker](https://wiremask.eu/tools/xor-cracker/) | Online XOR decryption tool able to guess the key length and the cipher key to decrypt any file.| :star:|
 | ---- Vigenère Solvers --- ||
 | [QuipQuip](https://quipqiup.com)  | Automated cryptogram solver.|:star::star::star:|
 | [Vigenere Solver](https://www.guballa.de/vigenere-solver) | Online tool that breaks Vigenère ciphers without knowing the key.|:star::star:|
+| ---- Misc --- ||
+| [FeatherDuster](https://github.com/nccgroup/featherduster) | An automated, modular cryptanalysis tool.  |:star:|
+| [Hash Extender](https://github.com/iagox86/hash_extender) | A utility tool for performing hash length extension attacks. |:star::star:|
+| [PkCrack](https://www.unix-ag.uni-kl.de/~conrad/krypto/pkcrack.html) | A tool for Breaking PkZip-encryption. |:star:|
 | ---- Factoring / Discrete Logs --- ||
 | [FactorDB](https://factordb.com/)|Online Automated integer factorization. |:star::star::star:|
 | [Alpertron](https://www.alpertron.com.ar/JAVAPROG.HTM)| Online Descrete log, number factorisation and a few other tools|:star::star:|

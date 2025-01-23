@@ -36,21 +36,21 @@ Focused on Crypto and Stego for now...
 ## Crypto
 | Resource  | Comment | Rating |
 | ------------- | ------------- | ------------- |
-| [CyberChef](https://gchq.github.io/CyberChef)  | Web app for analysing and decoding data.  |
 | [FeatherDuster](https://github.com/nccgroup/featherduster) | An automated, modular cryptanalysis tool.  |
-| [dcode](https://dcode.fr/en) | Solvers for Crypto, Maths and Encodings online.|
 | [Hash Extender](https://github.com/iagox86/hash_extender) | A utility tool for performing hash length extension attacks. |
-| [padding-oracle-attacker](https://github.com/KishanBagaria/padding-oracle-attacker)| A CLI tool to execute padding oracle attacks. |
 | [PkCrack](https://www.unix-ag.uni-kl.de/~conrad/krypto/pkcrack.html) | A tool for Breaking PkZip-encryption. |
+| ---- RSA --- ||
 | [RSACTFTool](https://github.com/Ganapati/RsaCtfTool)| A tool for recovering RSA private key with various attack. |
 | [RSATool](https://github.com/ius/rsatool)  |  Generate private key with knowledge of p and q.|
+| ---- Swiss Army Knife --- ||
 | [Ciphey](https://github.com/Ciphey/Ciphey) | Tool to automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes.|
 | [Cryptii](https://cryptii.com/) | Modular conversion, encoding and encryption online.|
-| [Decodify](https://github.com/s0md3v/Decodify) | Detect and decode encoded strings, recursively.|
-| [Hash-identifier](https://code.google.com/p/hash-identifier/source/checkout) | Simple hash algorithm identifier.|
-| [PadBuster](https://github.com/AonCyberLabs/PadBuster) | Automated script for performing Padding Oracle attacks.|
-| [PEMCrack](https://github.com/robertdavidgraham/pemcrack) | Cracks SSL PEM files that hold encrypted private keys. Brute forces or dictionary cracks.|
 | [Arfes](https://github.com/bee-san/Ares)| Discord based auto crypto solver|
+| [CyberChef](https://gchq.github.io/CyberChef)  | Web app for analysing and decoding data.  |
+| [dcode](https://dcode.fr/en) | Solvers for Crypto, Maths and Encodings online.|
+| ---- Oracle attacks --- ||
+| [PadBuster](https://github.com/AonCyberLabs/PadBuster) | Automated script for performing Padding Oracle attacks.|
+| [padding-oracle-attacker](https://github.com/KishanBagaria/padding-oracle-attacker)| A CLI tool to execute padding oracle attacks. |
 | ---- XOR / Videnere Solvers --- ||
 | [XORTool](https://github.com/hellman/xortool) | A tool to analyze multi-byte xor cipher.|:star::star:|
 | [XOR Cracker](https://wiremask.eu/tools/xor-cracker/) | Online XOR decryption tool able to guess the key length and the cipher key to decrypt any file.| :star:|
@@ -78,6 +78,8 @@ Focused on Crypto and Stego for now...
 | Resource  | Comment |
 | ------------- | ------------- |
 | [Crackstation](https://crackstation.net/) | Hash cracker (database).|
+| [PEMCrack](https://github.com/robertdavidgraham/pemcrack) | Cracks SSL PEM files that hold encrypted private keys. Brute forces or dictionary cracks.|
+
 | [Galois](http://web.eecs.utk.edu/~jplank/plank/papers/CS-07-593/) | A fast galois field arithmetic library/toolkit.|
 
 

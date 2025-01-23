@@ -31,60 +31,24 @@ A list of Capture The Flag(CTF) frameworks, libraries, resources, softwares and 
   - [Writeups Collections](#writeups-collections)
 
 
-# Create
 
-*Tools used for creating CTF challenges*
-
-- [Kali Linux CTF Blueprints](https://www.packtpub.com/eu/networking-and-servers/kali-linux-ctf-blueprints) - Online book on building, testing, and customizing your own Capture the Flag challenges.
-
-
-## Forensics
-
-*Tools used for creating Forensics challenges*
-
-- [Dnscat2](https://github.com/iagox86/dnscat2) - Hosts communication through DNS.
-- [Kroll Artifact Parser and Extractor (KAPE)](https://learn.duffandphelps.com/kape) - Triage program.
-- [Magnet AXIOM](https://www.magnetforensics.com/downloadaxiom) - Artifact-centric DFIR tool.
-- [Registry Dumper](http://www.kahusecurity.com/posts/registry_dumper_find_and_dump_hidden_registry_keys.html) - Dump your registry.
-
-## Platforms
-
-*Projects that can be used to host a CTF*
-
-- [CTFd](https://github.com/isislab/CTFd) - Platform to host jeopardy style CTFs from ISISLab, NYU Tandon.
-- [echoCTF.RED](https://github.com/echoCTF/echoCTF.RED) - Develop, deploy and maintain your own CTF infrastructure.
-- [FBCTF](https://github.com/facebook/fbctf) - Platform to host Capture the Flag competitions from Facebook.
-- [Haaukins](https://github.com/aau-network-security/haaukins)- A Highly Accessible and Automated Virtualization Platform for Security Education.
-- [HackTheArch](https://github.com/mcpa-stlouis/hack-the-arch) - CTF scoring platform.
-- [Mellivora](https://github.com/Nakiami/mellivora) - A CTF engine written in PHP.
-- [MotherFucking-CTF](https://github.com/andreafioraldi/motherfucking-ctf) - Badass lightweight plaform to host CTFs. No JS involved.
-- [NightShade](https://github.com/UnrealAkama/NightShade) - A simple security CTF framework.
-- [OpenCTF](https://github.com/easyctf/openctf) - CTF in a box. Minimal setup required.
-- [PicoCTF](https://github.com/picoCTF/picoCTF) - The platform used to run picoCTF. A great framework to host any CTF.
-- [PyChallFactory](https://github.com/pdautry/py_chall_factory) - Small framework to create/manage/package jeopardy CTF challenges.
-- [RootTheBox](https://github.com/moloch--/RootTheBox) - A Game of Hackers (CTF Scoreboard & Game Manager).
-- [Scorebot](https://github.com/legitbs/scorebot) - Platform for CTFs by Legitbs (Defcon).
-- [SecGen](https://github.com/cliffe/SecGen) - Security Scenario Generator. Creates randomly vulnerable virtual machines.
-
-## Steganography
-
-*Tools used to create stego challenges*
-
-Check solve section for steganography.
-
-## Web
-
-*Tools used for creating Web challenges*
-
-*JavaScript Obfustcators*
-
-- [Metasploit JavaScript Obfuscator](https://github.com/rapid7/metasploit-framework/wiki/How-to-obfuscate-JavaScript-in-Metasploit)
-- [Uglify](https://github.com/mishoo/UglifyJS)
+## Crypto
+| Resource  | Comment |
+| ------------- | ------------- |
+| [CyberChef](https://gchq.github.io/CyberChef)  | Web app for analysing and decoding data.  |
+| [FeatherDuster](https://github.com/nccgroup/featherduster) | An automated, modular cryptanalysis tool.  |
+| [dcode](https://dcode.fr/en) | Web app with hundreds of encoders/ decoders |
+| [Hash Extender](https://github.com/iagox86/hash_extender) | A utility tool for performing hash length extension attacks. |
+| [padding-oracle-attacker](https://github.com/KishanBagaria/padding-oracle-attacker)| A CLI tool to execute padding oracle attacks. |
+| [PkCrack](https://www.unix-ag.uni-kl.de/~conrad/krypto/pkcrack.html) | A tool for Breaking PkZip-encryption. |
+| [QuipQuip](https://quipqiup.com)  | An online tool for breaking substitution ciphers or vigenere ciphers (without key). |
+| [RSACTFTool](https://github.com/Ganapati/RsaCtfTool)| A tool for recovering RSA private key with various attack. |
+| [RSATool](https://github.com/ius/rsatool)  |  Generate private key with knowledge of p and q.|
+| [XORTool](https://github.com/hellman/xortool)  | A tool to analyze multi-byte xor cipher.|
 
 
-# Solve
 
-*Tools used for solving CTF challenges*
+
 
 ## Attacks
 
@@ -92,20 +56,6 @@ Check solve section for steganography.
 
 - [Bettercap](https://github.com/bettercap/bettercap) - Framework to perform MITM (Man in the Middle) attacks.
 - [Yersinia](https://github.com/tomac/yersinia) - Attack various protocols on layer 2.
-
-## Crypto
-
-*Tools used for solving Crypto challenges*
-
-- [CyberChef](https://gchq.github.io/CyberChef) - Web app for analysing and decoding data.
-- [FeatherDuster](https://github.com/nccgroup/featherduster) - An automated, modular cryptanalysis tool.
-- [Hash Extender](https://github.com/iagox86/hash_extender) - A utility tool for performing hash length extension attacks.
-- [padding-oracle-attacker](https://github.com/KishanBagaria/padding-oracle-attacker) - A CLI tool to execute padding oracle attacks.
-- [PkCrack](https://www.unix-ag.uni-kl.de/~conrad/krypto/pkcrack.html) - A tool for Breaking PkZip-encryption.
-- [QuipQuip](https://quipqiup.com) - An online tool for breaking substitution ciphers or vigenere ciphers (without key).
-- [RSACTFTool](https://github.com/Ganapati/RsaCtfTool) - A tool for recovering RSA private key with various attack.
-- [RSATool](https://github.com/ius/rsatool) - Generate private key with knowledge of p and q.
-- [XORTool](https://github.com/hellman/xortool) - A tool to analyze multi-byte xor cipher.
 
 ## Bruteforcers
 
@@ -310,6 +260,59 @@ Check solve section for steganography.
 
 - [CTF Tools](https://github.com/zardus/ctf-tools) - Collection of setup scripts to install various security research tools.
 - [LazyKali](https://github.com/jlevitsk/lazykali) - A 2016 refresh of LazyKali which simplifies install of tools and configuration.
+
+
+# Create
+
+*Tools used for creating CTF challenges*
+
+- [Kali Linux CTF Blueprints](https://www.packtpub.com/eu/networking-and-servers/kali-linux-ctf-blueprints) - Online book on building, testing, and customizing your own Capture the Flag challenges.
+
+
+## Forensics
+
+*Tools used for creating Forensics challenges*
+
+- [Dnscat2](https://github.com/iagox86/dnscat2) - Hosts communication through DNS.
+- [Kroll Artifact Parser and Extractor (KAPE)](https://learn.duffandphelps.com/kape) - Triage program.
+- [Magnet AXIOM](https://www.magnetforensics.com/downloadaxiom) - Artifact-centric DFIR tool.
+- [Registry Dumper](http://www.kahusecurity.com/posts/registry_dumper_find_and_dump_hidden_registry_keys.html) - Dump your registry.
+
+## Platforms
+
+*Projects that can be used to host a CTF*
+
+- [CTFd](https://github.com/isislab/CTFd) - Platform to host jeopardy style CTFs from ISISLab, NYU Tandon.
+- [echoCTF.RED](https://github.com/echoCTF/echoCTF.RED) - Develop, deploy and maintain your own CTF infrastructure.
+- [FBCTF](https://github.com/facebook/fbctf) - Platform to host Capture the Flag competitions from Facebook.
+- [Haaukins](https://github.com/aau-network-security/haaukins)- A Highly Accessible and Automated Virtualization Platform for Security Education.
+- [HackTheArch](https://github.com/mcpa-stlouis/hack-the-arch) - CTF scoring platform.
+- [Mellivora](https://github.com/Nakiami/mellivora) - A CTF engine written in PHP.
+- [MotherFucking-CTF](https://github.com/andreafioraldi/motherfucking-ctf) - Badass lightweight plaform to host CTFs. No JS involved.
+- [NightShade](https://github.com/UnrealAkama/NightShade) - A simple security CTF framework.
+- [OpenCTF](https://github.com/easyctf/openctf) - CTF in a box. Minimal setup required.
+- [PicoCTF](https://github.com/picoCTF/picoCTF) - The platform used to run picoCTF. A great framework to host any CTF.
+- [PyChallFactory](https://github.com/pdautry/py_chall_factory) - Small framework to create/manage/package jeopardy CTF challenges.
+- [RootTheBox](https://github.com/moloch--/RootTheBox) - A Game of Hackers (CTF Scoreboard & Game Manager).
+- [Scorebot](https://github.com/legitbs/scorebot) - Platform for CTFs by Legitbs (Defcon).
+- [SecGen](https://github.com/cliffe/SecGen) - Security Scenario Generator. Creates randomly vulnerable virtual machines.
+
+## Steganography
+
+*Tools used to create stego challenges*
+
+Check solve section for steganography.
+
+## Web
+
+*Tools used for creating Web challenges*
+
+*JavaScript Obfustcators*
+
+- [Metasploit JavaScript Obfuscator](https://github.com/rapid7/metasploit-framework/wiki/How-to-obfuscate-JavaScript-in-Metasploit)
+- [Uglify](https://github.com/mishoo/UglifyJS)
+
+
 
 ## Tutorials
 

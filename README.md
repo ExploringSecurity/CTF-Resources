@@ -34,7 +34,7 @@ Focused on Crypto and Stego for now...
 
 
 ## Crypto
-| Resource  | Comment |
+| Resource  | Comment | Ranking |
 | ------------- | ------------- |
 | [CyberChef](https://gchq.github.io/CyberChef)  | Web app for analysing and decoding data.  |
 | [FeatherDuster](https://github.com/nccgroup/featherduster) | An automated, modular cryptanalysis tool.  |
@@ -62,11 +62,14 @@ Focused on Crypto and Stego for now...
 | [Enigma Machine](https://summersidemakerspace.ca/projects/enigma-machine/) | Universal Enigma Machine Simulator.|
 | [Braille Translator](https://www.branah.com/braille-translator) | Translate from braille to text.|
 | [Polybius Square Cipher](https://www.braingle.com/brainteasers/codes/polybius.php) | Table that allows someone to translate letters into numbers.|
-| ---- Factoring and Sequences --- ||
-| [FactorDB](https://factordb.com/)|Online Automated integer factorization. |
-| [yagu](https://sourceforge.net/projects/yafu/) | Automated integer factorization. FactorDB is probably better option|
-| [Online Encyclopedia of Integer Sequences](https://oeis.org/) | OEIS: The On-Line Encyclopedia of Integer Sequences|
-| [Galois](http://web.eecs.utk.edu/~jplank/plank/papers/CS-07-593/) | A fast galois field arithmetic library/toolkit.|
+| ---- Factoring / Discrete Logs --- ||
+| [Alpertron](https://www.alpertron.com.ar/JAVAPROG.HTM)| Online Descrete log, number factorisation and a few other tools|2|
+| [FactorDB](https://factordb.com/)|Online Automated integer factorization. |1|
+| [yagu](https://sourceforge.net/projects/yafu/) | Automated integer factorisation. |2|
+| ---- Sequences --- ||
+| [Encyclopedia of Integer Sequences](https://oeis.org/) | OEIS: The On-Line Encyclopedia of Integer Sequences|4|
+
+
 
 
 
@@ -80,6 +83,8 @@ Focused on Crypto and Stego for now...
 | Resource  | Comment |
 | ------------- | ------------- |
 | [Crackstation](https://crackstation.net/) | Hash cracker (database).|
+| [Galois](http://web.eecs.utk.edu/~jplank/plank/papers/CS-07-593/) | A fast galois field arithmetic library/toolkit.|
+
 
 
 

@@ -45,6 +45,7 @@ Focused on Crypto and Stego for now...
 | math|
 | owiener|
 | Requests |
+| pillow |
 | mtp | https://github.com/CameronLonsdale/MTP
 
 - [CryptoHack](https://cryptohack.org/) - Fun cryptography challenges.

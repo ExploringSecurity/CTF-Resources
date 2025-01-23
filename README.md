@@ -34,7 +34,7 @@ Focused on Crypto and Stego for now...
 
 
 ## Crypto
-| Resource  | Comment | Ranking |
+| Resource  | Comment | Rating |
 | ------------- | ------------- | ------------- |
 | [CyberChef](https://gchq.github.io/CyberChef)  | Web app for analysing and decoding data.  |
 | [FeatherDuster](https://github.com/nccgroup/featherduster) | An automated, modular cryptanalysis tool.  |
@@ -57,17 +57,17 @@ Focused on Crypto and Stego for now...
 | [Vigenere Solver](https://www.guballa.de/vigenere-solver) | Online tool that breaks Vigenère ciphers without knowing the key.|
 | [QuipQuip](https://quipqiup.com)  | Automated cryptogram solver.|
 | ---- Smaller Tools --- ||
-| [Rumkin Cipher Tools](http://rumkin.com/tools/cipher/) | Collection of ciphhers/encoders tools.|
-| [Base65536](https://github.com/qntm/base65536) | Unicode's answer to Base64.|
-| [Enigma Machine](https://summersidemakerspace.ca/projects/enigma-machine/) | Universal Enigma Machine Simulator.|
-| [Braille Translator](https://www.branah.com/braille-translator) | Translate from braille to text.|
-| [Polybius Square Cipher](https://www.braingle.com/brainteasers/codes/polybius.php) | Table that allows someone to translate letters into numbers.|
+| [Rumkin Cipher Tools](http://rumkin.com/tools/cipher/) | Collection of ciphhers/encoders tools.|:star:|
+| [Base65536](https://github.com/qntm/base65536) | Unicode's answer to Base64.|:star:|
+| [Enigma Machine](https://summersidemakerspace.ca/projects/enigma-machine/) | Universal Enigma Machine Simulator.|:star:|
+| [Braille Translator](https://www.branah.com/braille-translator) | Translate from braille to text.|:star:|
+| [Polybius Square Cipher](https://www.braingle.com/brainteasers/codes/polybius.php) | Table that allows someone to translate letters into numbers.|:star:|
 | ---- Factoring / Discrete Logs --- ||
-| [Alpertron](https://www.alpertron.com.ar/JAVAPROG.HTM)| Online Descrete log, number factorisation and a few other tools|2|
-| [FactorDB](https://factordb.com/)|Online Automated integer factorization. |1|
-| [yagu](https://sourceforge.net/projects/yafu/) | Automated integer factorisation. |2|
+| [Alpertron](https://www.alpertron.com.ar/JAVAPROG.HTM)| Online Descrete log, number factorisation and a few other tools|:star::star:|
+| [FactorDB](https://factordb.com/)|Online Automated integer factorization. |:star::star::star:|
+| [yagu](https://sourceforge.net/projects/yafu/) | Automated integer factorisation. |:star::star:|
 | ---- Sequences --- ||
-| [Encyclopedia of Integer Sequences](https://oeis.org/) | OEIS: The On-Line Encyclopedia of Integer Sequences|4|
+| [Encyclopedia of Integer Sequences](https://oeis.org/) | OEIS: The On-Line Encyclopedia of Integer Sequences|:star:|
 
 
 

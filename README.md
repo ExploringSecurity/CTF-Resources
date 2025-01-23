@@ -35,7 +35,7 @@ Focused on Crypto and Stego for now...
 
 ## Crypto
 | Resource  | Comment | Ranking |
-| ------------- | ------------- |
+| ------------- | ------------- | ------------- |
 | [CyberChef](https://gchq.github.io/CyberChef)  | Web app for analysing and decoding data.  |
 | [FeatherDuster](https://github.com/nccgroup/featherduster) | An automated, modular cryptanalysis tool.  |
 | [dcode](https://dcode.fr/en) | Solvers for Crypto, Maths and Encodings online.|

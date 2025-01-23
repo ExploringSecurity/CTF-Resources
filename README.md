@@ -42,30 +42,36 @@ Focused on Crypto and Stego for now...
 | [Hash Extender](https://github.com/iagox86/hash_extender) | A utility tool for performing hash length extension attacks. |
 | [padding-oracle-attacker](https://github.com/KishanBagaria/padding-oracle-attacker)| A CLI tool to execute padding oracle attacks. |
 | [PkCrack](https://www.unix-ag.uni-kl.de/~conrad/krypto/pkcrack.html) | A tool for Breaking PkZip-encryption. |
-| [QuipQuip](https://quipqiup.com)  | Automated cryptogram solver.|
 | [RSACTFTool](https://github.com/Ganapati/RsaCtfTool)| A tool for recovering RSA private key with various attack. |
 | [RSATool](https://github.com/ius/rsatool)  |  Generate private key with knowledge of p and q.|
-| [XORTool](https://github.com/hellman/xortool)  | A tool to analyze multi-byte xor cipher.|
-| [Base65536](https://github.com/qntm/base65536) | Unicode's answer to Base64.|
-| [Braille Translator](https://www.branah.com/braille-translator) | Translate from braille to text.|
 | [Ciphey](https://github.com/Ciphey/Ciphey) | Tool to automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes.|
 | [Cryptii](https://cryptii.com/) | Modular conversion, encoding and encryption online.|
 | [Decodify](https://github.com/s0md3v/Decodify) | Detect and decode encoded strings, recursively.|
-| [Enigma Machine](https://summersidemakerspace.ca/projects/enigma-machine/) | Universal Enigma Machine Simulator.|
-| [Galois](http://web.eecs.utk.edu/~jplank/plank/papers/CS-07-593/) | A fast galois field arithmetic library/toolkit.|
 | [Hash-identifier](https://code.google.com/p/hash-identifier/source/checkout) | Simple hash algorithm identifier.|
 | [PadBuster](https://github.com/AonCyberLabs/PadBuster) | Automated script for performing Padding Oracle attacks.|
 | [PEMCrack](https://github.com/robertdavidgraham/pemcrack) | Cracks SSL PEM files that hold encrypted private keys. Brute forces or dictionary cracks.|
-| [Polybius Square Cipher](https://www.braingle.com/brainteasers/codes/polybius.php) | Table that allows someone to translate letters into numbers.|
-| [Rumkin Cipher Tools](http://rumkin.com/tools/cipher/) | Collection of ciphhers/encoders tools.|
-| [Vigenere Solver](https://www.guballa.de/vigenere-solver) | Online tool that breaks Vigenère ciphers without knowing the key.|
-| [XOR Cracker](https://wiremask.eu/tools/xor-cracker/) | Online XOR decryption tool able to guess the key length and the cipher key to decrypt any file.|
-| [XORTool](https://github.com/hellman/xortool) | A tool to analyze multi-byte xor cipher.|
+
 | [Arfes](https://github.com/bee-san/Ares)| Discord based auto crypto solver|
-| ---- Factoring and Sequences --- |
+
+
+| ---- XOR / Videnere Solvers --- ||
+| [XORTool](https://github.com/hellman/xortool) | A tool to analyze multi-byte xor cipher.|
+| [XOR Cracker](https://wiremask.eu/tools/xor-cracker/) | Online XOR decryption tool able to guess the key length and the cipher key to decrypt any file.|
+| [Vigenere Solver](https://www.guballa.de/vigenere-solver) | Online tool that breaks Vigenère ciphers without knowing the key.|
+| [QuipQuip](https://quipqiup.com)  | Automated cryptogram solver.|
+
+| ---- Smaller Tools --- ||
+| [Rumkin Cipher Tools](http://rumkin.com/tools/cipher/) | Collection of ciphhers/encoders tools.|
+| [Base65536](https://github.com/qntm/base65536) | Unicode's answer to Base64.|
+| [Enigma Machine](https://summersidemakerspace.ca/projects/enigma-machine/) | Universal Enigma Machine Simulator.|
+| [Braille Translator](https://www.branah.com/braille-translator) | Translate from braille to text.|
+| [Polybius Square Cipher](https://www.braingle.com/brainteasers/codes/polybius.php) | Table that allows someone to translate letters into numbers.|
+
+| ---- Factoring and Sequences --- ||
 | [FactorDB](https://factordb.com/)|Online Automated integer factorization. |
 | [yagu](https://sourceforge.net/projects/yafu/) | Automated integer factorization. FactorDB is probably better option|
 | [Online Encyclopedia of Integer Sequences](https://oeis.org/) | OEIS: The On-Line Encyclopedia of Integer Sequences|
+| [Galois](http://web.eecs.utk.edu/~jplank/plank/papers/CS-07-593/) | A fast galois field arithmetic library/toolkit.|
 
 
 

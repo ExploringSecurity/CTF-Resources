@@ -50,23 +50,18 @@ Focused on Crypto and Stego for now...
 | [Hash-identifier](https://code.google.com/p/hash-identifier/source/checkout) | Simple hash algorithm identifier.|
 | [PadBuster](https://github.com/AonCyberLabs/PadBuster) | Automated script for performing Padding Oracle attacks.|
 | [PEMCrack](https://github.com/robertdavidgraham/pemcrack) | Cracks SSL PEM files that hold encrypted private keys. Brute forces or dictionary cracks.|
-
 | [Arfes](https://github.com/bee-san/Ares)| Discord based auto crypto solver|
-
-
 | ---- XOR / Videnere Solvers --- ||
 | [XORTool](https://github.com/hellman/xortool) | A tool to analyze multi-byte xor cipher.|
 | [XOR Cracker](https://wiremask.eu/tools/xor-cracker/) | Online XOR decryption tool able to guess the key length and the cipher key to decrypt any file.|
 | [Vigenere Solver](https://www.guballa.de/vigenere-solver) | Online tool that breaks Vigenère ciphers without knowing the key.|
 | [QuipQuip](https://quipqiup.com)  | Automated cryptogram solver.|
-
 | ---- Smaller Tools --- ||
 | [Rumkin Cipher Tools](http://rumkin.com/tools/cipher/) | Collection of ciphhers/encoders tools.|
 | [Base65536](https://github.com/qntm/base65536) | Unicode's answer to Base64.|
 | [Enigma Machine](https://summersidemakerspace.ca/projects/enigma-machine/) | Universal Enigma Machine Simulator.|
 | [Braille Translator](https://www.branah.com/braille-translator) | Translate from braille to text.|
 | [Polybius Square Cipher](https://www.braingle.com/brainteasers/codes/polybius.php) | Table that allows someone to translate letters into numbers.|
-
 | ---- Factoring and Sequences --- ||
 | [FactorDB](https://factordb.com/)|Online Automated integer factorization. |
 | [yagu](https://sourceforge.net/projects/yafu/) | Automated integer factorization. FactorDB is probably better option|
